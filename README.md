@@ -1,5 +1,7 @@
 # Rising World Plugin Template
+For Rising World  "new version" / Unity Engine version. 
 A simple template for making Rising World plugins.
+
 
 ### How to use:
 1. You need [JDK 20](https://jdk.java.net/20/) since Rising World uses same Java version for plugins.
